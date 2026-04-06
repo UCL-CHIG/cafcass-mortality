@@ -1,0 +1,545 @@
+code,group1,group2,description
+X60,adversity,suicide,Intentional self-poisoning by and exposure to nonopioid analgesics antipyretics and antirheumatics
+X61,adversity,suicide,Intentional self-poisoning by and exposure to antiepileptic sedative-hypnotic antiparkinsonism and psychotropic drugs not elsewhere classified
+X62,adversity,suicide,Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens] not elsewhere classified
+X63,adversity,suicide,Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system
+X64,adversity,suicide,Intentional self-poisoning by and exposure to other and unspecified drugs medicaments and biological substances
+X65,adversity,suicide,Intentional self-poisoning by and exposure to alcohol
+X66,adversity,suicide,Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours
+X67,adversity,suicide,Intentional self-poisoning by and exposure to other gases and vapours
+X68,adversity,suicide,Intentional self-poisoning by and exposure to pesticides
+X69,adversity,suicide,Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances
+X70,adversity,suicide,Intentional self-harm by hanging strangulation and suffocation
+X71,adversity,suicide,Intentional self-harm by drowning and submersion
+X72,adversity,suicide,Intentional self-harm by handgun discharge
+X73,adversity,suicide,Intentional self-harm by rifle shotgun and larger firearm discharge
+X74,adversity,suicide,Intentional self-harm by other and unspecified firearm discharge
+X75,adversity,suicide,Intentional self-harm by explosive material
+X76,adversity,suicide,Intentional self-harm by smoke fire and flames
+X77,adversity,suicide,Intentional self-harm by steam hot vapours and hot objects
+X78,adversity,suicide,Intentional self-harm by sharp object
+X79,adversity,suicide,Intentional self-harm by blunt object
+X80,adversity,suicide,Intentional self-harm by jumping from a high place
+X81,adversity,suicide,Intentional self-harm by jumping or lying before moving object
+X82,adversity,suicide,Intentional self-harm by crashing of motor vehicle
+X83,adversity,suicide,Intentional self-harm by other specified means
+X84,adversity,suicide,Intentional self-harm by unspecified means
+Y10,adversity,suicide,Poisoning by and exposure to nonopioid analgesics antipyretics and antirheumatics undetermined intent
+Y11,adversity,suicide,Poisoning by and exposure to antiepileptic sedative-hypnotic antiparkinsonism and psychotropic drugs not elsewhere classified undetermined intent
+Y12,adversity,suicide,Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens] not elsewhere classified undetermined intent
+Y13,adversity,suicide,Poisoning by and exposure to other drugs acting on the autonomic nervous system undetermined intent
+Y14,adversity,suicide,Poisoning by and exposure to other and unspecified drugs medicaments and biological substances undetermined intent
+Y15,adversity,suicide,Poisoning by and exposure to alcohol undetermined intent
+Y16,adversity,suicide,Poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours undetermined intent
+Y17,adversity,suicide,Poisoning by and exposure to other gases and vapours undetermined intent
+Y18,adversity,suicide,Poisoning by and exposure to pesticides undetermined intent
+Y19,adversity,suicide,Poisoning by and exposure to other and unspecified chemicals and noxious substances undetermined intent
+Y20,adversity,suicide,Hanging strangulation and suffocation undetermined intent
+Y21,adversity,suicide,Drowning and submersion undetermined intent
+Y22,adversity,suicide,Handgun discharge undetermined intent
+Y23,adversity,suicide,Rifle shotgun and larger firearm discharge undetermined intent
+Y24,adversity,suicide,Other and unspecified firearm discharge undetermined intent
+Y25,adversity,suicide,Contact with explosive material undetermined intent
+Y26,adversity,suicide,Exposure to smoke fire and flames undetermined intent
+Y27,adversity,suicide,Contact with steam hot vapours and hot objects undetermined intent
+Y28,adversity,suicide,Contact with sharp object undetermined intent
+Y29,adversity,suicide,Contact with blunt object undetermined intent
+Y30,adversity,suicide,Falling jumping or pushed from a high place undetermined intent
+Y31,adversity,suicide,Falling lying or running before or into moving object undetermined intent
+Y32,adversity,suicide,Crashing of motor vehicle undetermined intent
+Y33.0,adversity,suicide,Other specified events undetermined intent
+Y33.1,adversity,suicide,Other specified events undetermined intent
+Y33.2,adversity,suicide,Other specified events undetermined intent
+Y33.3,adversity,suicide,Other specified events undetermined intent
+Y33.4,adversity,suicide,Other specified events undetermined intent
+Y33.5,adversity,suicide,Other specified events undetermined intent
+Y33.6,adversity,suicide,Other specified events undetermined intent
+Y33.7,adversity,suicide,Other specified events undetermined intent
+Y33.8,adversity,suicide,Other specified events undetermined intent
+Y34,adversity,suicide,Unspecified event undetermined intent
+T73,adversity,homicide,Effects of other deprivation
+T74,adversity,homicide,Maltreatment syndromes
+Y04,adversity,homicide,Assault by bodily force
+Y05,adversity,homicide,Sexual assault by bodily force
+Y06,adversity,homicide,Neglect and abandonment
+Y07,adversity,homicide,Other maltreatment
+X86,adversity,homicide,Assault by corrosive substance
+X87,adversity,homicide,Assault by pesticides
+X88,adversity,homicide,Assault by gases and vapours
+X89,adversity,homicide,Assault by other specified chemicals and noxious substances
+X90,adversity,homicide,Assault by unspecified chemical or noxious substance
+X91,adversity,homicide,Assault by hanging strangulation and suffocation
+X92,adversity,homicide,Assault by drowning and submersion
+X93,adversity,homicide,Assault by handgun discharge
+X94,adversity,homicide,Assault by rifle shotgun and larger firearm discharge
+X95,adversity,homicide,Assault by other and unspecified firearm discharge
+X96,adversity,homicide,Assault by explosive material
+X97,adversity,homicide,Assault by smoke fire and flames
+X98,adversity,homicide,Assault by steam hot vapours and hot objects
+X99,adversity,homicide,Assault by sharp object
+Y01,adversity,homicide,Assault by pushing from high place
+Y02,adversity,homicide,Assault by pushing or placing victim before moving object
+Y03,adversity,homicide,Assault by crashing of motor vehicle
+Y04,adversity,homicide,Assault by bodily force
+Y05,adversity,homicide,Sexual assault by bodily force
+Y06,adversity,homicide,Neglect and abandonment
+Y07,adversity,homicide,Other maltreatment
+Y08,adversity,homicide,Assault by other specified means
+Y09,adversity,homicide,Assault by unspecified means
+U50.9,adversity,homicide,temporary code for underlying cause of death until final information becomes available
+E24.4,adversity,alcohol,Alcohol-induced pseudo-Cushing syndrome
+F10,adversity,alcohol,Mental and behavioural disorders due to use of alcohol
+G31.2,adversity,alcohol,Degeneration of nervous system due to alcohol
+G62.1,adversity,alcohol,Alcoholic polyneuropathy
+G72.1,adversity,alcohol,Alcoholic myopathy
+I42.6,adversity,alcohol,Alcoholic cardiomyopathy
+K29.2,adversity,alcohol,Alcoholic gastritis
+K70,adversity,alcohol,Alcoholic liver disease
+K85.2,adversity,alcohol,Alcohol-induced acute pancreatitis
+K86.0,adversity,alcohol,Alcohol-induced chronic pancreatitis
+Q86.0,adversity,alcohol,Fetal alcohol syndrome (dysmorphic)
+R78.0,adversity,alcohol,Finding of alcohol in blood
+X45,adversity,alcohol,Accidental poisoning by and exposure to alcohol
+F11,adversity,drug,Mental and behavioural disorders due to use of opioids
+F12,adversity,drug,Mental and behavioural disorders due to use of cannabinoids
+F13,adversity,drug,Mental and behavioural disorders due to use of sedatives or hypnotics
+F14,adversity,drug,Mental and behavioural disorders due to use of cocaine
+F15,adversity,drug,Mental and behavioural disorders due to use of other stimulants including caffeine
+F16,adversity,drug,Mental and behavioural disorders due to use of hallucinogens
+F18,adversity,drug,Mental and behavioural disorders due to use of volatile solvents
+F19,adversity,drug,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances
+X40,adversity,drug,Accidental poisoning by and exposure to nonopioid analgesics antipyretics and antirheumatics
+X41,adversity,drug,Accidental poisoning by and exposure to antiepileptic sedative-hypnotic antiparkinsonism and psychotropic drugs not elsewhere classified
+X42,adversity,drug,Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens] not elsewhere classified
+X43,adversity,drug,Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system
+X44,adversity,drug,Accidental poisoning by and exposure to other and unspecified drugs medicaments and biological substances
+X85,adversity,drug,Assault by drugs medicaments and biological substances
+S00,accidental,accidental,Superficial injury of head
+S01,accidental,accidental,Open wound of head
+S02,accidental,accidental,Fracture of skull and facial bones
+S03,accidental,accidental,Dislocation sprain and strain of joints and ligaments of head
+S04,accidental,accidental,Injury of cranial nerves
+S05,accidental,accidental,Injury of eye and orbit
+S06,accidental,accidental,Intracranial injury
+S07,accidental,accidental,Crushing injury of head
+S08,accidental,accidental,Traumatic amputation of part of head
+S09,accidental,accidental,Other and unspecified injuries of head
+S10,accidental,accidental,Superficial injury of neck
+S11,accidental,accidental,Open wound of neck
+S12,accidental,accidental,Fracture of neck
+S13,accidental,accidental,Dislocation sprain and strain of joints and ligaments at neck level
+S14,accidental,accidental,Injury of nerves and spinal cord at neck level
+S15,accidental,accidental,Injury of blood vessels at neck level
+S16,accidental,accidental,Injury of muscle and tendon at neck level
+S17,accidental,accidental,Crushing injury of neck
+S18,accidental,accidental,Traumatic amputation at neck level
+S19,accidental,accidental,Other and unspecified injuries of neck
+S20,accidental,accidental,Superficial injury of thorax
+S21,accidental,accidental,Open wound of thorax
+S22,accidental,accidental,Fracture of rib(s) sternum and thoracic spine
+S23,accidental,accidental,Dislocation sprain and strain of joints and ligaments of thorax
+S24,accidental,accidental,Injury of nerves and spinal cord at thorax level
+S25,accidental,accidental,Injury of blood vessels of thorax
+S26,accidental,accidental,Injury of heart
+S27,accidental,accidental,Injury of other and unspecified intrathoracic organs
+S28,accidental,accidental,Crushing injury of thorax and traumatic amputation of part of thorax
+S29,accidental,accidental,Other and unspecified injuries of thorax
+S30,accidental,accidental,Superficial injury of abdomen lower back and pelvis
+S31,accidental,accidental,Open wound of abdomen lower back and pelvis
+S32,accidental,accidental,Fracture of lumbar spine and pelvis
+S33,accidental,accidental,Dislocation sprain and strain of joints and ligaments of lumbar spine and pelvis
+S34,accidental,accidental,Injury of nerves and lumbar spinal cord at abdomen lower back and pelvis level
+S35,accidental,accidental,Injury of blood vessels at abdomen lower back and pelvis level
+S36,accidental,accidental,Injury of intra-abdominal organs
+S37,accidental,accidental,Injury of urinary and pelvic organs
+S38,accidental,accidental,Crushing injury and traumatic amputation of part of abdomen lower back and pelvis
+S39,accidental,accidental,Other and unspecified injuries of abdomen lower back and pelvis
+S40,accidental,accidental,Superficial injury of shoulder and upper arm
+S41,accidental,accidental,Open wound of shoulder and upper arm
+S42,accidental,accidental,Fracture of shoulder and upper arm
+S43,accidental,accidental,Dislocation sprain and strain of joints and ligaments of shoulder girdle
+S44,accidental,accidental,Injury of nerves at shoulder and upper arm level
+S45,accidental,accidental,Injury of blood vessels at shoulder and upper arm level
+S46,accidental,accidental,Injury of muscle and tendon at shoulder and upper arm level
+S47,accidental,accidental,Crushing injury of shoulder and upper arm
+S48,accidental,accidental,Traumatic amputation of shoulder and upper arm
+S49,accidental,accidental,Other and unspecified injuries of shoulder and upper arm
+S50,accidental,accidental,Superficial injury of forearm
+S51,accidental,accidental,Open wound of forearm
+S52,accidental,accidental,Fracture of forearm
+S53,accidental,accidental,Dislocation sprain and strain of joints and ligaments of elbow
+S54,accidental,accidental,Injury of nerves at forearm level
+S55,accidental,accidental,Injury of blood vessels at forearm level
+S56,accidental,accidental,Injury of muscle and tendon at forearm level
+S57,accidental,accidental,Crushing injury of forearm
+S58,accidental,accidental,Traumatic amputation of forearm
+S59,accidental,accidental,Other and unspecified injuries of forearm
+S60,accidental,accidental,Superficial injury of wrist and hand
+S61,accidental,accidental,Open wound of wrist and hand
+S62,accidental,accidental,Fracture at wrist and hand level
+S63,accidental,accidental,Dislocation sprain and strain of joints and ligaments at wrist and hand level
+S64,accidental,accidental,Injury of nerves at wrist and hand level
+S65,accidental,accidental,Injury of blood vessels at wrist and hand level
+S66,accidental,accidental,Injury of muscle and tendon at wrist and hand level
+S67,accidental,accidental,Crushing injury of wrist and hand
+S68,accidental,accidental,Traumatic amputation of wrist and hand
+S69,accidental,accidental,Other and unspecified injuries of wrist and hand
+S70,accidental,accidental,Superficial injury of hip and thigh
+S71,accidental,accidental,Open wound of hip and thigh
+S72,accidental,accidental,Fracture of femur
+S73,accidental,accidental,Dislocation sprain and strain of joint and ligaments of hip
+S74,accidental,accidental,Injury of nerves at hip and thigh level
+S75,accidental,accidental,Injury of blood vessels at hip and thigh level
+S76,accidental,accidental,Injury of muscle and tendon at hip and thigh level
+S77,accidental,accidental,Crushing injury of hip and thigh
+S78,accidental,accidental,Traumatic amputation of hip and thigh
+S79,accidental,accidental,Other and unspecified injuries of hip and thigh
+S80,accidental,accidental,Superficial injury of lower leg
+S81,accidental,accidental,Open wound of lower leg
+S82,accidental,accidental,Fracture of lower leg including ankle
+S83,accidental,accidental,Dislocation sprain and strain of joints and ligaments of knee
+S84,accidental,accidental,Injury of nerves at lower leg level
+S85,accidental,accidental,Injury of blood vessels at lower leg level
+S86,accidental,accidental,Injury of muscle and tendon at lower leg level
+S87,accidental,accidental,Crushing injury of lower leg
+S88,accidental,accidental,Traumatic amputation of lower leg
+S89,accidental,accidental,Other and unspecified injuries of lower leg
+S90,accidental,accidental,Superficial injury of ankle and foot
+S91,accidental,accidental,Open wound of ankle and foot
+S92,accidental,accidental,Fracture of foot except ankle
+S93,accidental,accidental,Dislocation sprain and strain of joints and ligaments at ankle and foot level
+S94,accidental,accidental,Injury of nerves at ankle and foot level
+S95,accidental,accidental,Injury of blood vessels at ankle and foot level
+S96,accidental,accidental,Injury of muscle and tendon at ankle and foot level
+S97,accidental,accidental,Crushing injury of ankle and foot
+S98,accidental,accidental,Traumatic amputation of ankle and foot
+S99,accidental,accidental,Other and unspecified injuries of ankle and foot
+T00,accidental,accidental,Superficial injuries involving multiple body regions
+T01,accidental,accidental,Open wounds involving multiple body regions
+T02,accidental,accidental,Fractures involving multiple body regions
+T03,accidental,accidental,Dislocations sprains and strains involving multiple body regions
+T04,accidental,accidental,Crushing injuries involving multiple body regions
+T05,accidental,accidental,Traumatic amputations involving multiple body regions
+T06,accidental,accidental,Other injuries involving multiple body regions not elsewhere classified
+T07,accidental,accidental,Unspecified multiple injuries
+T08,accidental,accidental,Fracture of spine level unspecified
+T09,accidental,accidental,Other injuries of spine and trunk level unspecified
+T10,accidental,accidental,Fracture of upper limb level unspecified
+T11,accidental,accidental,Other injuries of upper limb level unspecified
+T12,accidental,accidental,Fracture of lower limb level unspecified
+T13,accidental,accidental,Other injuries of lower limb level unspecified
+T14,accidental,accidental,Injury of unspecified body region
+T15,accidental,accidental,Foreign body on external eye
+T16,accidental,accidental,Foreign body in ear
+T17,accidental,accidental,Foreign body in respiratory tract
+T18,accidental,accidental,Foreign body in alimentary tract
+T19,accidental,accidental,Foreign body in genitourinary tract
+T20,accidental,accidental,Burn and corrosion of head and neck
+T21,accidental,accidental,Burn and corrosion of trunk
+T22,accidental,accidental,Burn and corrosion of shoulder and upper limb except wrist and hand
+T23,accidental,accidental,Burn and corrosion of wrist and hand
+T24,accidental,accidental,Burn and corrosion of hip and lower limb except ankle and foot
+T25,accidental,accidental,Burn and corrosion of ankle and foot
+T26,accidental,accidental,Burn and corrosion confined to eye and adnexa
+T27,accidental,accidental,Burn and corrosion of respiratory tract
+T28,accidental,accidental,Burn and corrosion of other internal organs
+T29,accidental,accidental,Burns and corrosions of multiple body regions
+T30,accidental,accidental,Burn and corrosion body region unspecified
+T31,accidental,accidental,Burns classified according to extent of body surface involved
+T32,accidental,accidental,Corrosions classified according to extent of body surface involved
+T33,accidental,accidental,Superficial frostbite
+T34,accidental,accidental,Frostbite with tissue necrosis
+T35,accidental,accidental,Frostbite involving multiple body regions and unspecified frostbite
+T36,accidental,accidental,Poisoning by systemic antibiotics
+T37,accidental,accidental,Poisoning by other systemic anti-infectives and antiparasitics
+T38,accidental,accidental,Poisoning by hormones and their synthetic substitutes and antagonists not elsewhere classified
+T39,accidental,accidental,Poisoning by nonopioid analgesics antipyretics and antirheumatics
+T40,accidental,accidental,Poisoning by narcotics and psychodysleptics [hallucinogens]
+T41,accidental,accidental,Poisoning by anaesthetics and therapeutic gases
+T42,accidental,accidental,Poisoning by antiepileptic sedative-hypnotic and antiparkinsonism drugs
+T43,accidental,accidental,Poisoning by psychotropic drugs not elsewhere classified
+T44,accidental,accidental,Poisoning by drugs primarily affecting the autonomic nervous system
+T45,accidental,accidental,Poisoning by primarily systemic and haematological agents not elsewhere classified
+T46,accidental,accidental,Poisoning by agents primarily affecting the cardiovascular system
+T47,accidental,accidental,Poisoning by agents primarily affecting the gastrointestinal system
+T48,accidental,accidental,Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system
+T49,accidental,accidental,Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological otorhinolaryngological and dental drugs
+T50,accidental,accidental,Poisoning by diuretics and other and unspecified drugs medicaments and biological substances
+T51,accidental,accidental,Toxic effect of alcohol
+T52,accidental,accidental,Toxic effect of organic solvents
+T53,accidental,accidental,Toxic effect of halogen derivatives of aliphatic and aromatic hydrocarbons
+T54,accidental,accidental,Toxic effect of corrosive substances
+T55,accidental,accidental,Toxic effect of soaps and detergents
+T56,accidental,accidental,Toxic effect of metals
+T57,accidental,accidental,Toxic effect of other inorganic substances
+T58,accidental,accidental,Toxic effect of carbon monoxide
+T59,accidental,accidental,Toxic effect of other gases fumes and vapours
+T60,accidental,accidental,Toxic effect of pesticides
+T61,accidental,accidental,Toxic effect of noxious substances eaten as seafood
+T62,accidental,accidental,Toxic effect of other noxious substances eaten as food
+T63,accidental,accidental,Toxic effect of contact with venomous animals
+T64,accidental,accidental,Toxic effect of aflatoxin and other mycotoxin food contaminants
+T65,accidental,accidental,Toxic effect of other and unspecified substances
+T66,accidental,accidental,Unspecified effects of radiation
+T67,accidental,accidental,Effects of heat and light
+T68,accidental,accidental,Hypothermia
+T69,accidental,accidental,Other effects of reduced temperature
+T70,accidental,accidental,Effects of air pressure and water pressure
+T71,accidental,accidental,Asphyxiation
+T75,accidental,accidental,Effects of other external causes
+T78,accidental,accidental,Adverse effects not elsewhere classified
+T79,accidental,accidental,Certain early complications of trauma not elsewhere classified
+T80,accidental,accidental,Complications following infusion transfusion and therapeutic injection
+T81,accidental,accidental,Complications of procedures not elsewhere classified
+T82,accidental,accidental,Complications of cardiac and vascular prosthetic devices implants and grafts
+T83,accidental,accidental,Complications of genitourinary prosthetic devices implants and grafts
+T84,accidental,accidental,Complications of internal orthopaedic prosthetic devices implants and grafts
+T85,accidental,accidental,Complications of other internal prosthetic devices implants and grafts
+T86,accidental,accidental,Failure and rejection of transplanted organs and tissues
+T87,accidental,accidental,Complications peculiar to reattachment and amputation
+T88,accidental,accidental,Other complications of surgical and medical care not elsewhere classified
+T90,accidental,accidental,Sequelae of injuries of head
+T91,accidental,accidental,Sequelae of injuries of neck and trunk
+T92,accidental,accidental,Sequelae of injuries of upper limb
+T93,accidental,accidental,Sequelae of injuries of lower limb
+T94,accidental,accidental,Sequelae of injuries involving multiple and unspecified body regions
+T95,accidental,accidental,Sequelae of burns corrosions and frostbite
+T96,accidental,accidental,Sequelae of poisoning by drugs medicaments and biological substances
+T97,accidental,accidental,Sequelae of toxic effects of substances chiefly nonmedicinal as to source
+T98,accidental,accidental,Sequelae of other and unspecified effects of external causes
+V01,accidental,accidental,Pedestrian injured in collision with pedal cycle
+V02,accidental,accidental,Pedestrian injured in collision with two- or three-wheeled motor vehicle
+V03,accidental,accidental,Pedestrian injured in collision with car pick-up truck or van
+V04,accidental,accidental,Pedestrian injured in collision with heavy transport vehicle or bus
+V05,accidental,accidental,Pedestrian injured in collision with railway train or railway vehicle
+V06,accidental,accidental,Pedestrian injured in collision with other nonmotor vehicle
+V09,accidental,accidental,Pedestrian injured in other and unspecified transport accidents
+V10,accidental,accidental,Pedal cyclist injured in collision with pedestrian or animal
+V11,accidental,accidental,Pedal cyclist injured in collision with other pedal cycle
+V12,accidental,accidental,Pedal cyclist injured in collision with two- or three-wheeled motor vehicle
+V13,accidental,accidental,Pedal cyclist injured in collision with car pick-up truck or van
+V14,accidental,accidental,Pedal cyclist injured in collision with heavy transport vehicle or bus
+V15,accidental,accidental,Pedal cyclist injured in collision with railway train or railway vehicle
+V16,accidental,accidental,Pedal cyclist injured in collision with other nonmotor vehicle
+V17,accidental,accidental,Pedal cyclist injured in collision with fixed or stationary object
+V18,accidental,accidental,Pedal cyclist injured in noncollision transport accident
+V19,accidental,accidental,Pedal cyclist injured in other and unspecified transport accidents
+V20,accidental,accidental,Motorcycle rider injured in collision with pedestrian or animal
+V21,accidental,accidental,Motorcycle rider injured in collision with pedal cycle
+V22,accidental,accidental,Motorcycle rider injured in collision with two- or three-wheeled motor vehicle
+V23,accidental,accidental,Motorcycle rider injured in collision with car pick-up truck or van
+V24,accidental,accidental,Motorcycle rider injured in collision with heavy transport vehicle or bus
+V25,accidental,accidental,Motorcycle rider injured in collision with railway train or railway vehicle
+V26,accidental,accidental,Motorcycle rider injured in collision with other nonmotor vehicle
+V27,accidental,accidental,Motorcycle rider injured in collision with fixed or stationary object
+V28,accidental,accidental,Motorcycle rider injured in noncollision transport accident
+V29,accidental,accidental,Motorcycle rider injured in other and unspecified transport accidents
+V30,accidental,accidental,Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal
+V31,accidental,accidental,Occupant of three-wheeled motor vehicle injured in collision with pedal cycle
+V32,accidental,accidental,Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle
+V33,accidental,accidental,Occupant of three-wheeled motor vehicle injured in collision with car pick-up truck or van
+V34,accidental,accidental,Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus
+V35,accidental,accidental,Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle
+V36,accidental,accidental,Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle
+V37,accidental,accidental,Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object
+V38,accidental,accidental,Occupant of three-wheeled motor vehicle injured in noncollision transport accident
+V39,accidental,accidental,Occupant of three-wheeled motor vehicle injured in other and unspecified transport accidents
+V40,accidental,accidental,Car occupant injured in collision with pedestrian or animal
+V41,accidental,accidental,Car occupant injured in collision with pedal cycle
+V42,accidental,accidental,Car occupant injured in collision with two- or three-wheeled motor vehicle
+V43,accidental,accidental,Car occupant injured in collision with car pick-up truck or van
+V44,accidental,accidental,Car occupant injured in collision with heavy transport vehicle or bus
+V45,accidental,accidental,Car occupant injured in collision with railway train or railway vehicle
+V46,accidental,accidental,Car occupant injured in collision with other nonmotor vehicle
+V47,accidental,accidental,Car occupant injured in collision with fixed or stationary object
+V48,accidental,accidental,Car occupant injured in noncollision transport accident
+V49,accidental,accidental,Car occupant injured in other and unspecified transport accidents
+V50,accidental,accidental,Occupant of pick-up truck or van injured in collision with pedestrian or animal
+V51,accidental,accidental,Occupant of pick-up truck or van injured in collision with pedal cycle
+V52,accidental,accidental,Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle
+V53,accidental,accidental,Occupant of pick-up truck or van injured in collision with car pick-up truck or van
+V54,accidental,accidental,Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus
+V55,accidental,accidental,Occupant of pick-up truck or van injured in collision with railway train or railway vehicle
+V56,accidental,accidental,Occupant of pick-up truck or van injured in collision with other nonmotor vehicle
+V57,accidental,accidental,Occupant of pick-up truck or van injured in collision with fixed or stationary object
+V58,accidental,accidental,Occupant of pick-up truck or van injured in noncollision transport accident
+V59,accidental,accidental,Occupant of pick-up truck or van injured in other and unspecified transport accidents
+V60,accidental,accidental,Occupant of heavy transport vehicle injured in collision with pedestrian or animal
+V61,accidental,accidental,Occupant of heavy transport vehicle injured in collision with pedal cycle
+V62,accidental,accidental,Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle
+V63,accidental,accidental,Occupant of heavy transport vehicle injured in collision with car pick-up truck or van
+V64,accidental,accidental,Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus
+V65,accidental,accidental,Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle
+V66,accidental,accidental,Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle
+V67,accidental,accidental,Occupant of heavy transport vehicle injured in collision with fixed or stationary object
+V68,accidental,accidental,Occupant of heavy transport vehicle injured in noncollision transport accident
+V69,accidental,accidental,Occupant of heavy transport vehicle injured in other and unspecified transport accidents
+V70,accidental,accidental,Bus occupant injured in collision with pedestrian or animal
+V71,accidental,accidental,Bus occupant injured in collision with pedal cycle
+V72,accidental,accidental,Bus occupant injured in collision with two- or three-wheeled motor vehicle
+V73,accidental,accidental,Bus occupant injured in collision with car pick-up truck or van
+V74,accidental,accidental,Bus occupant injured in collision with heavy transport vehicle or bus
+V75,accidental,accidental,Bus occupant injured in collision with railway train or railway vehicle
+V76,accidental,accidental,Bus occupant injured in collision with other nonmotor vehicle
+V77,accidental,accidental,Bus occupant injured in collision with fixed or stationary object
+V78,accidental,accidental,Bus occupant injured in noncollision transport accident
+V79,accidental,accidental,Bus occupant injured in other and unspecified transport accidents
+V80,accidental,accidental,Animal-rider or occupant of animal-drawn vehicle injured in transport accident
+V81,accidental,accidental,Occupant of railway train or railway vehicle injured in transport accident
+V82,accidental,accidental,Occupant of streetcar injured in transport accident
+V83,accidental,accidental,Occupant of special vehicle mainly used on industrial premises injured in transport accident
+V84,accidental,accidental,Occupant of special vehicle mainly used in agriculture injured in transport accident
+V85,accidental,accidental,Occupant of special construction vehicle injured in transport accident
+V86,accidental,accidental,Occupant of special all-terrain or other motor vehicle designed primarily for off-road use injured in transport accident
+V87,accidental,accidental,Traffic accident of specified type but victim's mode of transport unknown
+V88,accidental,accidental,Nontraffic accident of specified type but victim's mode of transport unknown
+V89,accidental,accidental,Motor- or nonmotor-vehicle accident type of vehicle unspecified
+V90,accidental,accidental,Accident to watercraft causing drowning and submersion
+V91,accidental,accidental,Accident to watercraft causing other injury
+V92,accidental,accidental,Water-transport-related drowning and submersion without accident to watercraft
+V93,accidental,accidental,Accident on board watercraft without accident to watercraft not causing drowning and submersion
+V94,accidental,accidental,Other and unspecified water transport accidents
+V95,accidental,accidental,Accident to powered aircraft causing injury to occupant
+V96,accidental,accidental,Accident to nonpowered aircraft causing injury to occupant
+V97,accidental,accidental,Other specified air transport accidents
+V98,accidental,accidental,Other specified transport accidents
+V99,accidental,accidental,Unspecified transport accident
+W00,accidental,accidental,Fall on same level involving ice and snow
+W01,accidental,accidental,Fall on same level from slipping tripping and stumbling
+W02,accidental,accidental,Fall involving ice-skates skis roller-skates or skateboards
+W03,accidental,accidental,Other fall on same level due to collision with or pushing by another person
+W04,accidental,accidental,Fall while being carried or supported by other persons
+W05,accidental,accidental,Fall involving wheelchair
+W06,accidental,accidental,Fall involving bed
+W07,accidental,accidental,Fall involving chair
+W08,accidental,accidental,Fall involving other furniture
+W09,accidental,accidental,Fall involving playground equipment
+W10,accidental,accidental,Fall on and from stairs and steps
+W11,accidental,accidental,Fall on and from ladder
+W12,accidental,accidental,Fall on and from scaffolding
+W13,accidental,accidental,Fall from out of or through building or structure
+W14,accidental,accidental,Fall from tree
+W15,accidental,accidental,Fall from cliff
+W16,accidental,accidental,Diving or jumping into water causing injury other than drowning or submersion
+W17,accidental,accidental,Other fall from one level to another
+W18,accidental,accidental,Other fall on same level
+W19,accidental,accidental,Unspecified fall
+W20,accidental,accidental,Struck by thrown projected or falling object
+W21,accidental,accidental,Striking against or struck by sports equipment
+W22,accidental,accidental,Striking against or struck by other objects
+W23,accidental,accidental,Caught crushed jammed or pinched in or between objects
+W24,accidental,accidental,Contact with lifting and transmission devices not elsewhere classified
+W25,accidental,accidental,Contact with sharp glass
+W26,accidental,accidental,Contact with other sharp object(s)
+W27,accidental,accidental,Contact with nonpowered hand tool
+W28,accidental,accidental,Contact with powered lawnmower
+W29,accidental,accidental,Contact with other powered hand tools and household machinery
+W30,accidental,accidental,Contact with agricultural machinery
+W31,accidental,accidental,Contact with other and unspecified machinery
+W32,accidental,accidental,Handgun discharge
+W33,accidental,accidental,Rifle shotgun and larger firearm discharge
+W34,accidental,accidental,Discharge from other and unspecified firearms
+W35,accidental,accidental,Explosion and rupture of boiler
+W36,accidental,accidental,Explosion and rupture of gas cylinder
+W37,accidental,accidental,Explosion and rupture of pressurized tyre pipe or hose
+W38,accidental,accidental,Explosion and rupture of other specified pressurized devices
+W39,accidental,accidental,Discharge of firework
+W40,accidental,accidental,Explosion of other materials
+W41,accidental,accidental,Exposure to high-pressure jet
+W42,accidental,accidental,Exposure to noise
+W43,accidental,accidental,Exposure to vibration
+W44,accidental,accidental,Foreign body entering into or through eye or natural orifice
+W45,accidental,accidental,Foreign body or object entering through skin
+W46,accidental,accidental,Contact with hypodermic needle
+W49,accidental,accidental,Exposure to other and unspecified inanimate mechanical forces
+W50,accidental,accidental,Hit struck kicked twisted bitten or scratched by another person
+W51,accidental,accidental,Striking against or bumped into by another person
+W52,accidental,accidental,Crushed pushed or stepped on by crowd or human stampede
+W53,accidental,accidental,Bitten by rat
+W54,accidental,accidental,Bitten or struck by dog
+W55,accidental,accidental,Bitten or struck by other mammals
+W56,accidental,accidental,Contact with marine animal
+W57,accidental,accidental,Bitten or stung by nonvenomous insect and other nonvenomous arthropods
+W58,accidental,accidental,Bitten or struck by crocodile or alligator
+W59,accidental,accidental,Bitten or crushed by other reptiles
+W60,accidental,accidental,Contact with plant thorns and spines and sharp leaves
+W64,accidental,accidental,Exposure to other and unspecified animate mechanical forces
+W65,accidental,accidental,Drowning and submersion while in bath-tub
+W66,accidental,accidental,Drowning and submersion following fall into bath-tub
+W67,accidental,accidental,Drowning and submersion while in swimming-pool
+W68,accidental,accidental,Drowning and submersion following fall into swimming-pool
+W69,accidental,accidental,Drowning and submersion while in natural water
+W70,accidental,accidental,Drowning and submersion following fall into natural water
+W73,accidental,accidental,Other specified drowning and submersion
+W74,accidental,accidental,Unspecified drowning and submersion
+W75,accidental,accidental,Accidental suffocation and strangulation in bed
+W76,accidental,accidental,Other accidental hanging and strangulation
+W77,accidental,accidental,Threat to breathing due to cave-in falling earth and other substances
+W78,accidental,accidental,Inhalation of gastric contents
+W79,accidental,accidental,Inhalation and ingestion of food causing obstruction of respiratory tract
+W80,accidental,accidental,Inhalation and ingestion of other objects causing obstruction of respiratory tract
+W81,accidental,accidental,Confined to or trapped in a low-oxygen environment
+W83,accidental,accidental,Other specified threats to breathing
+W84,accidental,accidental,Unspecified threat to breathing
+W85,accidental,accidental,Exposure to electric transmission lines
+W86,accidental,accidental,Exposure to other specified electric current
+W87,accidental,accidental,Exposure to unspecified electric current
+W88,accidental,accidental,Exposure to ionizing radiation
+W89,accidental,accidental,Exposure to man-made visible and ultraviolet light
+W90,accidental,accidental,Exposure to other nonionizing radiation
+W91,accidental,accidental,Exposure to unspecified type of radiation
+W92,accidental,accidental,Exposure to excessive heat of man-made origin
+W93,accidental,accidental,Exposure to excessive cold of man-made origin
+W94,accidental,accidental,Exposure to high and low air pressure and changes in air pressure
+W99,accidental,accidental,Exposure to other and unspecified man-made environmental factors
+X00,accidental,accidental,Exposure to uncontrolled fire in building or structure
+X01,accidental,accidental,Exposure to uncontrolled fire not in building or structure
+X02,accidental,accidental,Exposure to controlled fire in building or structure
+X03,accidental,accidental,Exposure to controlled fire not in building or structure
+X04,accidental,accidental,Exposure to ignition of highly flammable material
+X05,accidental,accidental,Exposure to ignition or melting of nightwear
+X06,accidental,accidental,Exposure to ignition or melting of other clothing and apparel
+X08,accidental,accidental,Exposure to other specified smoke fire and flames
+X09,accidental,accidental,Exposure to unspecified smoke fire and flames
+X10,accidental,accidental,Contact with hot drinks food fats and cooking oils
+X11,accidental,accidental,Contact with hot tap-water
+X12,accidental,accidental,Contact with other hot fluids
+X13,accidental,accidental,Contact with steam and hot vapours
+X14,accidental,accidental,Contact with hot air and gases
+X15,accidental,accidental,Contact with hot household appliances
+X16,accidental,accidental,Contact with hot heating appliances radiators and pipes
+X17,accidental,accidental,Contact with hot engines machinery and tools
+X18,accidental,accidental,Contact with other hot metals
+X19,accidental,accidental,Contact with other and unspecified heat and hot substances
+X20,accidental,accidental,Contact with venomous snakes and lizards
+X21,accidental,accidental,Contact with venomous spiders
+X22,accidental,accidental,Contact with scorpions
+X23,accidental,accidental,Contact with hornets wasps and bees
+X24,accidental,accidental,Contact with centipedes and venomous millipedes (tropical)
+X25,accidental,accidental,Contact with other venomous arthropods
+X26,accidental,accidental,Contact with venomous marine animals and plants
+X27,accidental,accidental,Contact with other specified venomous animals
+X28,accidental,accidental,Contact with other specified venomous plants
+X29,accidental,accidental,Contact with unspecified venomous animal or plant
+X30,accidental,accidental,Exposure to excessive natural heat
+X31,accidental,accidental,Exposure to excessive natural cold
+X32,accidental,accidental,Exposure to sunlight
+X33,accidental,accidental,Victim of lightning
+X34,accidental,accidental,Victim of earthquake
+X35,accidental,accidental,Victim of volcanic eruption
+X36,accidental,accidental,Victim of avalanche landslide and other earth movements
+X37,accidental,accidental,Victim of cataclysmic storm
+X38,accidental,accidental,Victim of flood
+X39,accidental,accidental,Exposure to other and unspecified forces of nature
+X46,accidental,accidental,Accidental poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours
+X47,accidental,accidental,Accidental poisoning by and exposure to other gases and vapours
+X48,accidental,accidental,Accidental poisoning by and exposure to pesticides
+X49,accidental,accidental,Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances
+X50,accidental,accidental,Overexertion and strenuous or repetitive movements
+X51,accidental,accidental,Travel and motion
+X52,accidental,accidental,Prolonged stay in weightless environment
+X53,accidental,accidental,Lack of food
+X54,accidental,accidental,Lack of water
+X57,accidental,accidental,Unspecified privation
+X58,accidental,accidental,Exposure to other specified factors
+X59,accidental,accidental,Exposure to unspecified factor
